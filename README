@@ -2,5 +2,6 @@ A simple Proof of Concept to learn JSON, Jersey, Twitter and CouchDB
 
 get public / your private information from twitter and store them to couchdb
 
+It's written in Java and comes as an Eclipse project
 
 Released as Beerware (http://en.wikipedia.org/wiki/Beerware)
